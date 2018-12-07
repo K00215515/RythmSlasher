@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    private Vector3 increment = new Vector3(.05f, 0, 0);
+    private Vector3 increment = new Vector3(.03f, 0, 0);
     // Use this for initialization
     void Start()
     {

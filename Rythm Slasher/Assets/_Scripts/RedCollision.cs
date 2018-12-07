@@ -4,20 +4,21 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class PlayerController : MonoBehaviour {
+public class RedCollision : MonoBehaviour {
 
     public Text scoreText;
     private Rigidbody rb;
     private int score;
 
-    void Start () {
+    void Start()
+    {
         rb = GetComponent<Rigidbody>();
         score = 0;
         SetScoreText();
     }
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Target"))
+        if (other.gameObject.CompareTag("CubeTarget"))
         {
             other.gameObject.SetActive(false);
             score += 1;
