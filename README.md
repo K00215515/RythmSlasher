@@ -1,2 +1,2 @@
 # RythmSlasher
-https://youtu.be/BYL6JtUdEY0
+The game is a clone of Beat Saber. The models that are in the game were made in unity and 3ds Max. These models include the obstacles, spheres, cubes and the sabers. The game has a red background on all scenes of the VR game. The other objects that have a red material is one of the sabers, the obstacles and cube targets. The sphere targets and the other saber has a blue material. The buttons that are in the game also have a blue material and have white text. The music in the game is from freesound.org and the link is: https://freesound.org/people/ispeakwaves/sounds/384934/
