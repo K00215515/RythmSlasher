@@ -7,7 +7,7 @@ The target audience for the game must be English speaking and in the 13+ age gro
 4)	End scene contains the credits and two buttons which are retry and exit.
 
 The link to the video is:
-https://youtu.be/wia5ph5wFb4
+https://youtu.be/hW_tsn9S4PA
 
 The music in the game is from freesound.org and the link is: https://freesound.org/people/ispeakwaves/sounds/384934/
 
